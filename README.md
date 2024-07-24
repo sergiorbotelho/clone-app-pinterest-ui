@@ -1,4 +1,11 @@
-# Welcome to your Expo app 👋
+# Welcome to your Clone Pinterest UI app 👋
+
+![Captura de tela 2024-07-23 230414](https://github.com/user-attachments/assets/b7ff9f00-e887-4afc-8703-69f30ef41934) ![Captura de tela 2024-07-23 230128](https://github.com/user-attachments/assets/f87000c8-06f7-44f8-ac13-4fbc9abd0cda)
+
+![Captura de tela 2024-07-23 230342](https://github.com/user-attachments/assets/0b30c75f-a438-464a-8f48-44b200a0208b) ![Captura de tela 2024-07-23 230507](https://github.com/user-attachments/assets/4eb9595c-8b73-459a-8309-81e9b594a1bd)
+
+
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
